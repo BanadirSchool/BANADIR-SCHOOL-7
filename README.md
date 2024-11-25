@@ -1,10 +1,9 @@
-
 <html>
     <title> Natiijo</title>
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Anas Hassan Abdi</h1>
+            <h1> Anas Hassan Abdi </h1>
             <h2> ID: 007</h2>
             <table border="25">
                 <tr>
@@ -14,50 +13,37 @@
                     <th>Fasalka</th>
                 </tr>
                 
-                    <td> FIRST AID</td>
+                    <td> WINDOW 10</td>
                    
-                    <td> 50
-                        <td>  E
-                        <td> CAAFIMAAD</td>
+                    <td> 60
+                        <td> D
+                        <td> COMPUTER</td>
                     </td>
-                </tr>
+           
             
                 <tr>
-                    <td> CDC </td>
-                    <td>   60
-                        <td>D
-                    </td>
-                    <td> CAAFIMAAD
-                    </td>
-                </tr>
-               <tr>
-                    <td> ANATOMY </td>
-                    <td>Lama Hayo  
+                    <td> MS- WORD </td>
+                    <td> LAMA HAYO
                         <td> Z
                     </td>
-                    <td> CAAFIMAAD
+                    <td> COMPUTER
                     </td>
-                </tr>
+          
+                <tr>   
+                    <td> M-S EXCEL </td>
+                    <td> 79
+                        <td> C+
+                    </td>
+                    <td> COMPUTER
+                    </td>
+        
                
-                   <tr>
-                        <td>PHYSIOLOGY </td>
-                        <td>Lama hayo</td>
+                <tr>
+                        <td>M-S POWER POINT </td>
+                        <td> LAMA HAYO </td>
                         <td> Z
-                        <td> CAAFIMAAD
+                        <td> COMPUTER
                         </td>
-                    </tr>
-                   <tr>
-                        <td> PHARMACOLOGY</td>
-                        <td>Lama Hayo</td>
-                        <td> Z
-                        <td> CAAFIMAAD
-                        </td>
-                    </tr>
-                    
-                       <tr> 
-                            <td> NUTRITION</td>
-                            <td>Lama Hayo</td>
-                            <td> Z
-                            <td> CAAFIMAAD
-                            </td>
-                       </tr>
+               
+                  
+                   
