@@ -23,8 +23,8 @@
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> 40
-                        <td> F
+                    <td> 90
+                        <td> A
                     </td>
                     <td> COMPUTER
                     </td>
